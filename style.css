@@ -91,6 +91,9 @@ ul{
     #Footer{
         padding: 2vh !important;
     }
+    .reverse{
+        flex-direction: column-reverse;
+    }
 }
 .Lorem{
     color: white;
